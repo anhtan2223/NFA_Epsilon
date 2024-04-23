@@ -1,0 +1,1 @@
+text = "CHƯƠNG TRÌNH DEMO  XÂY DỰNG NFA-ε", font = ("Arial Bold", 20)
